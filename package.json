@@ -1,0 +1,13 @@
+{
+  "name": "tseries-radio-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that streams T-Series 24/7 via Lavalink v4 + Shoukaku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "shoukaku": "^4.0.1"
+  }
+}
