@@ -163,26 +163,6 @@ radio-station-bot/
 
 ---
 
-## 🔒 Security — Important
-
-**Never commit real bot tokens to GitHub.** Before pushing, make sure your `config.js` only has placeholder values, or move tokens to a `.env` file.
-
-Add a `.gitignore`:
-```
-node_modules/
-.env
-```
-
-If you accidentally exposed a token, **invalidate it immediately** in the [Discord Developer Portal](https://discord.com/developers/applications) and generate a new one.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
-
----
-
 ## 📄 License
 
 This project is open source. Feel free to use, modify, and distribute it.
